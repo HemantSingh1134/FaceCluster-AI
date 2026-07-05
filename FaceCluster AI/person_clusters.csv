@@ -1,0 +1,7 @@
+Image Name,Cluster,Confidence (%)
+person_02_0.jpg,Person_1,78.8
+person_02_1.jpg,Person_1,78.8
+person_03_0.jpg,Person_2,86.34
+person_03_1.jpg,Person_2,86.34
+person_01_0.jpg,Person_3,85.36
+person_01_1.jpg,Person_3,85.36
